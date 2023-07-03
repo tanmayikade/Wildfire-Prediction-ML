@@ -1,4 +1,4 @@
-# Wildfire-Prediction-ML 
+# Wildfire Prediction using XGRBoost Algo 
 
 .py file contains the complete code
 .json file contains the saved model or weights for future use
